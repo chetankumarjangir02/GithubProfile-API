@@ -32,7 +32,7 @@ const getUser = async(username) => {
 
 
 // init call
-getUser("bhagirath-wscubetech")
+getUser("chetankumarjangir02")
 
 
 const getRepos = async(username) => {
